@@ -1,0 +1,64 @@
+# Do Phi Khanh
+
+`facilitator-do-phi-khanh` · Facilitator · Sanctioned or designated · confidence high
+
+> Vietnam-based proxy/bank-account facilitator; administrative sanctions designation; no criminal charge or conviction is on record.
+
+**Identity boundary.** Do Phi Khanh, listed by OFAC as DO, Phi Khanh and referenced by Treasury as Do, is the person Treasury reported as an associate and proxy of DPRK nuclear-procurement facilitator Kim Se Un. Treasury's qualified conduct assessment and administrative-designation posture govern this record; criminal guilt, present location, current control of a bank account, and identity with a same-named public account remain unestablished.
+
+| | |
+|---|---|
+| Legal or reported name | Do Phi Khanh |
+| Locations (historical, per source) | Hanoi, Vietnam (OFAC-listed location; not a present-location inference) |
+| Last verified | 2026-10-18 |
+
+## Caveats
+
+- OFAC's designation is an administrative action; criminal charge or conviction is outside that action. Hanoi is a source-listed location as of the cited sanctions records; current residence, presence, and activity are outside that listing, and public account or financial selector is absent here.
+
+## Claims (10)
+
+| Claim | Value | Confidence | Status | Source |
+|---|---|---|---|---|
+| officially reported name | {"display_name": "Do Phi Khanh", "ofac_primary_name": "DO, Phi Khanh"} | confirmed | published | [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0416) (Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph); [U.S. Department of the Treasury, Office of Foreign Assets Control](https://ofac.treasury.gov/recent-actions/20260312) (Specially Designated Nationals List Update, individual additions, Do entry); [U.S. Department of the Treasury, Office of Foreign Assets Control](https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV) (SDN.CSV primary row for OFAC entity number 57054, fields 1-4) |
+| treasury reference shorthand | {"shorthand": "Do", "scope": "Treasury March 12, 2026 press release"} | high | published | [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0416) (Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph) |
+| treasury reported association with | {"person": "Kim Se Un", "reported_role_of_person": "DPRK nuclear procurement facilitator"} | high | published | [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0416) (Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph, opening clause); [U.S. Department of the Treasury, Office of Foreign Assets Control](https://ofac.treasury.gov/recent-actions/20260312) (Specially Designated Nationals List Update, individual additions, Do entry) |
+| treasury reported proxy role for | {"person": "Kim Se Un", "role": "proxy"} | high | needs corroboration | [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0416) (Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph, proxy clause) |
+| treasury assessed identity use for bank accounts | {"person_enabled": "Kim Se Un", "method": "use of Do Phi Khanh's identity", "purpose": "open bank accounts", "assessment": "likely"} | medium | needs corroboration | [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0416) (Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph, qualified identity-use clause) |
+| treasury assessed identity use for proceeds laundering | {"person_enabled": "Kim Se Un", "method": "use of Do Phi Khanh's identity", "proceeds_source": "DPRK IT workers", "assessment": "likely"} | medium | published | [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0416) (Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph, qualified proceeds clause) |
+| administratively designated under proliferation authority | {"authority": "U.S. Department of the Treasury, Office of Foreign Assets Control", "action": "SDN designation", "date": "2026-03-12", "authority_basis": "Executive Order 13382", "reported_basis": "support for Kim Se Un"} | confirmed | published | [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0416) (Key Enablers of Global DPRK IT Worker Networks, Do/Hoang designation sentence); [U.S. Department of the Treasury, Office of Foreign Assets Control](https://www.govinfo.gov/content/pkg/FR-2026-03-17/pdf/2026-05114.pdf) (Federal Register p. 12904, Do designation paragraph, contiguous fragment 1 of 2); [U.S. Department of the Treasury, Office of Foreign Assets Control](https://www.govinfo.gov/content/pkg/FR-2026-03-17/pdf/2026-05114.pdf) (Federal Register p. 12904, Do designation paragraph, contiguous fragment 2 of 2) |
+| present in current ofac sdn export | {"list": "OFAC Specially Designated Nationals and Blocked Persons List", "program": "NPWMD", "checked_at": "2026-08-15"} | confirmed | published | [U.S. Department of the Treasury, Office of Foreign Assets Control](https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV) (SDN.CSV primary row for OFAC entity number 57054, fields 1-4) |
+| ofac listed coarse location | {"location": "Hanoi, Vietnam", "precision": "coarse city-level only", "listing_observed_at": "2026-08-15", "present_location_inferred": false} | confirmed | published | [U.S. Department of the Treasury, Office of Foreign Assets Control](https://www.govinfo.gov/content/pkg/FR-2026-03-17/pdf/2026-05114.pdf) (Federal Register p. 12904, individual entry 1); [U.S. Department of the Treasury, Office of Foreign Assets Control](https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/ADD.CSV) (ADD.CSV address row joined to OFAC entity number 57054) |
+| independently published designation coverage | {"publisher": "Recorded Future News", "published_at": "2026-03-12", "coverage": "Named Do Phi Khanh among the sanctioned people and summarized the U.S. bank-account accusation"} | high | published | [Recorded Future News](https://therecord.media/us-sanctions-north-korea-it-worker-networks-laos-vietnam) (Paragraph naming Nguyen Quang Viet, Do Phi Khanh, and Hoang Van Nguyen) |
+
+<details><summary>Exact quotes</summary>
+
+- **officially reported name** — “Do Phi Khanh” — U.S. Department of the Treasury, Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph
+- **officially reported name** — “DO, Phi Khanh” — U.S. Department of the Treasury, Office of Foreign Assets Control, Specially Designated Nationals List Update, individual additions, Do entry
+- **officially reported name** — “57054,"DO, Phi Khanh","individual","NPWMD"” — U.S. Department of the Treasury, Office of Foreign Assets Control, SDN.CSV primary row for OFAC entity number 57054, fields 1-4
+- **treasury reference shorthand** — “Do Phi Khanh (Do)” — U.S. Department of the Treasury, Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph
+- **treasury reported association with** — “Do Phi Khanh (Do) is an associate of U.S.-sanctioned DPRK nuclear procurement facilitator Kim Se Un (Kim)” — U.S. Department of the Treasury, Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph, opening clause
+- **treasury reported association with** — “Linked To: KIM, Se Un” — U.S. Department of the Treasury, Office of Foreign Assets Control, Specially Designated Nationals List Update, individual additions, Do entry
+- **treasury reported proxy role for** — “who acts as Kim’s proxy” — U.S. Department of the Treasury, Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph, proxy clause
+- **treasury assessed identity use for bank accounts** — “likely allows Kim to use his identity to open bank accounts” — U.S. Department of the Treasury, Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph, qualified identity-use clause
+- **treasury assessed identity use for proceeds laundering** — “likely allows Kim to use his identity to open bank accounts and launder proceeds from DPRK IT workers” — U.S. Department of the Treasury, Key Enablers of Global DPRK IT Worker Networks, Do/Hoang paragraph, qualified proceeds clause
+- **administratively designated under proliferation authority** — “OFAC is designating Do and Hoang pursuant to E.O. 13382 for having provided, or attempted to provide, financial, material, technological or other support for, or goods or services in support of Kim.” — U.S. Department of the Treasury, Key Enablers of Global DPRK IT Worker Networks, Do/Hoang designation sentence
+- **administratively designated under proliferation authority** — “Designated pursuant to section 1(a)(iii) of Executive Order 13382” — U.S. Department of the Treasury, Office of Foreign Assets Control, Federal Register p. 12904, Do designation paragraph, contiguous fragment 1 of 2
+- **administratively designated under proliferation authority** — “for having provided, or attempted to provide, financial, material, technological or other support for, or goods or services in support of, KIM SE UN” — U.S. Department of the Treasury, Office of Foreign Assets Control, Federal Register p. 12904, Do designation paragraph, contiguous fragment 2 of 2
+- **present in current ofac sdn export** — “57054,"DO, Phi Khanh","individual","NPWMD"” — U.S. Department of the Treasury, Office of Foreign Assets Control, SDN.CSV primary row for OFAC entity number 57054, fields 1-4
+- **ofac listed coarse location** — “DO, Phi Khanh, Hanoi, Vietnam” — U.S. Department of the Treasury, Office of Foreign Assets Control, Federal Register p. 12904, individual entry 1
+- **ofac listed coarse location** — “"Hanoi","Vietnam"” — U.S. Department of the Treasury, Office of Foreign Assets Control, ADD.CSV address row joined to OFAC entity number 57054
+- **independently published designation coverage** — “Do Phi Khanh and Hoang Van Nguyen — two men accused of opening bank accounts that intake the funds earned by IT workers.” — Recorded Future News, Paragraph naming Nguyen Quang Viet, Do Phi Khanh, and Hoang Van Nguyen
+
+</details>
+
+## Sources
+
+- U.S. Department of the Treasury, [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0416), 2026-03-12 — Key Enablers of Global DPRK IT Worker Networks section. OFAC designated six individuals and two entities across the DPRK, Vietnam, Laos, and Spain, including DPRK team lead Yun Song Guk and Amnokgang Technology Development Company
+- U.S. Department of the Treasury, Office of Foreign Assets Control, [Sanctions List Service — ADD.CSV current address export](https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/ADD.CSV) — ADD.CSV address row joined to OFAC entity number 57054. The current exact-ID address-table row lists Hanoi, Vietnam for OFAC entity number 57054. It is part of the same OFAC dataset as the SDN and alias tables and does not establish a street address, residence, continued presence, or present location
+- Recorded Future News, [US sanctions North Korea IT worker networks in Laos, Vietnam](https://therecord.media/us-sanctions-north-korea-it-worker-networks-laos-vietnam), 2026-03-12 — Paragraph naming Nguyen Quang Viet, Do Phi Khanh, and Hoang Van Nguyen. Recorded Future News independently names Do Phi Khanh among the sanctioned individuals and summarizes Treasury's accusation that he and Hoang Van Nguyen opened accounts receiving IT-worker funds. The article is a separate publisher but relies on Treasury for the underlying designation and conduct assessment
+- U.S. Department of the Treasury, Office of Foreign Assets Control, [Notice of OFAC Sanctions Action](https://www.govinfo.gov/content/pkg/FR-2026-03-17/pdf/2026-05114.pdf), 2026-03-17 — Federal Register p. 12904, Do entry and designation paragraph. The official notice lists Do Phi Khanh at Hanoi, Vietnam and states that OFAC designated him under Executive Order 13382 for providing or attempting to provide support, goods, or services to Kim Se Un. The location is retained only at coarse city level, and the action is administrative rather than a criminal charge or conviction
+- U.S. Department of the Treasury, Office of Foreign Assets Control, [Counter Terrorism Designations; North Korea Designations and Designation Update; Counter Narcotics Designation Removal](https://ofac.treasury.gov/recent-actions/20260312), 2026-03-12
+- U.S. Department of the Treasury, Office of Foreign Assets Control, [Sanctions List Service — SDN.CSV current publication export](https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN.CSV)
+
+*Data file: [`data/entities/facilitator/facilitator-do-phi-khanh.json`](../../../data/entities/facilitator/facilitator-do-phi-khanh.json). Found a problem? See [CORRECTIONS.md](../../../CORRECTIONS.md).*

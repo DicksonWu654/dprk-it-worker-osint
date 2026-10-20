@@ -1,0 +1,30 @@
+# FBI fraudulent remote IT workers campaign page
+
+`infrastructure-fbi-fraudulent-remote-it-workers-campaign-page` · Infrastructure · Officially attributed (UN or government reporting; not a charge) · confidence high · **needs corroboration**
+
+> Official FBI campaign-page context is associated with four charged defendants; the allegations remain unadjudicated, and page-level association leaves depicted persons unidentified in campaign imagery.
+
+| | |
+|---|---|
+| Last verified | 2026-08-12 |
+
+## Caveats
+
+- Add an archive from a lawful capture; restricted media stays out.
+- Charged allegations remain unproven unless adjudicated.
+- Current passive access state: blocked by HTTP 403/Cloudflare challenge on August 12, 2026; the response leaves URL freshness unresolved.
+- Keep pages and campaign visuals out of individual profiles.
+- The page and its imagery are for contextual review; facial recognition, biometric comparison, and identity inference are unsupported uses.
+- Asset URL verification was unperformed; binary download, embedding, caching, and hashing were outside the workflow.
+- The cited sources provide existing imagery and context; a new individual portrait is absent.
+- The FBI page is retained as campaign/case context; image-level identification remains unresolved.
+
+## Source-backed context
+
+- campaign-image-provenance-context: value: https://www.fbi.gov/wanted/cyber/fraudulent-remote-it-workers-from-dprk; handling: Link to the official campaign page only. This is page-level case context, not an individual portrait or verified direct image asset. Do not cache, crop, map campaign imagery to a person, or use it for facial, biometric, persona, alias, account, or legal-identity inference.
+
+## Sources
+
+- Federal Bureau of Investigation, [Fraudulent Remote IT Workers From the Democratic People's Republic of Korea](https://www.fbi.gov/wanted/cyber/fraudulent-remote-it-workers-from-dprk) — Campaign page associated in the corpus with the June 2025 Kim Kwang Jin et al. case. A fresh passive request on August 12, 2026 returned an HTTP 403/Cloudflare challenge. The link is access-blocked, not confirmed stale, and is retained only as campaign-level provenance; it does not support an individual portrait
+
+*Data file: [`data/entities/infrastructure/infrastructure-fbi-fraudulent-remote-it-workers-campaign-page.json`](../../../data/entities/infrastructure/infrastructure-fbi-fraudulent-remote-it-workers-campaign-page.json). Found a problem? See [CORRECTIONS.md](../../../CORRECTIONS.md).*

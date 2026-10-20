@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-10-20T04:00:54Z",
+  "entities": 913,
+  "people": 395,
+  "by_type": {
+    "worker": 137,
+    "persona": 170,
+    "facilitator": 88,
+    "front_company": 82,
+    "organization": 5,
+    "cluster": 109,
+    "infrastructure": 30,
+    "ttp": 272,
+    "lead": 20
+  },
+  "by_attribution": {
+    "officially-attributed": 108,
+    "sanctioned-designation": 58,
+    "research-attributed": 162,
+    "charged-allegation": 53,
+    "affected-organization-report": 4,
+    "convicted": 10
+  },
+  "by_status": {
+    "needs_corroboration": 532,
+    "published": 381
+  },
+  "claims": 3889,
+  "sources": 986,
+  "publishers": 373
+}

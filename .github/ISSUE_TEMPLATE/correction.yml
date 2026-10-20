@@ -1,0 +1,37 @@
+name: Correction or removal request
+description: A record is wrong, overstated, out of date, or should not be here.
+title: "[correction] "
+labels: [correction]
+body:
+  - type: input
+    id: entity
+    attributes:
+      label: Entity id or page
+      description: e.g. worker-kang-tae-bok, or the docs/ page URL
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong
+      options:
+        - Factual error (the source does not say this)
+        - Legal posture overstated (e.g. charge described as conviction)
+        - Wrong merge (two different people in one record)
+        - Out of date (case resolved, designation lifted, account gone)
+        - Excluded data present (phone, address, document image, victim detail)
+        - I am the person named and request review
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Detail
+      description: What should change and why. Link the source that shows it, if there is one.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Requests from a named person are handled first and privately where asked. See CORRECTIONS.md. If the matter is sensitive, give only the entity id and write "private review requested"; a maintainer will reply with a private channel.

@@ -1,0 +1,77 @@
+# Tong Yuze
+
+`facilitator-tong-yuze` · Facilitator · Charged (allegation; presumed innocent) · confidence high
+
+> Allegations only. Through 2026-08-12, the verified record reaches charging in the District of Massachusetts Wang matter; later merits disposition remains unverified.
+
+**Identity boundary.** Tong Yuze is the reported name of a Rewards for Justice subject and a defendant named in a 2025 federal indictment. The RFJ descriptions, indictment, and SentinelLabs corporate-linkage reporting are allegations or source-attributed research; no plea, conviction, acquittal, dismissal, sentence, or other merits disposition was verified. Keep the same-name Uzi8 GitHub profile and other same-named people separate; the RFJ image is excluded from identity resolution, and direct images, precise addresses, victim identities, contacts, accounts, payment, wallet, identity-document, infrastructure, and private selectors are excluded from retention.
+
+| | |
+|---|---|
+| Legal or reported name | Tong Yuze |
+| TTPs | laundering DPRK IT-worker proceeds, shell-company and payment infrastructure |
+| lazarus.group profiles | facilitator-tong-yuze |
+| Last verified | 2026-10-18 |
+
+## Caveats
+
+- Charges are allegations; the subject is presumed innocent unless and until proven guilty.
+- Keep the campaign context intact; the source presents the State Department in a contextual role only.
+- Facial recognition is excluded; shell-company portrait linkage requires source evidence.
+- The image is retained as visual context only. Biometric matching and resolution of employment personas, aliases, accounts, and victim identities are outside the method.
+- Keep alleged-role and source context adjacent.
+- Person-bearing imagery is source-page-only. Keep it uncached, uncropped, and unpublished; facial recognition, visual matching, legal-identity bridging, and inferences about current appearance, ownership, control, nationality, or location are outside scope.
+- The official reward-page role remains an allegation unless separately adjudicated.
+
+## Claims (12)
+
+| Claim | Value | Confidence | Status | Source |
+|---|---|---|---|---|
+| official sources named subject | {"name": "Tong Yuze"} | high | published | [State Department Rewards for Justice](https://rewardsforjustice.net/rewards/north-korea-money-laundering-9-individuals) (Subject list, Tong entry); [U.S. District Court for the District of Massachusetts, published by U.S. Department of Justice](https://www.justice.gov/opa/media/1406391/dl?inline) (PDF file p. 2 (printed p. 1), caption); [U.S. Department of Justice](https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker) (reward-subject list) |
+| official source used chinese name form | {"name": "佟雨泽"} | high | published | [State Department Rewards for Justice](https://rewardsforjustice.net/rewards/north-korea-money-laundering-9-individuals) (Subject list, Tong entry); [U.S. Department of Justice](https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker) (reward-subject list) |
+| rfj seeks information for reported role | {"reported_context": "exportation of DPRK IT workers and money laundering", "posture": "information sought by Rewards for Justice"} | high | published | [State Department Rewards for Justice](https://rewardsforjustice.net/rewards/north-korea-money-laundering-9-individuals) (Introduction to individual list) |
+| rfj reported shell company website role | {"reported_role": "China-based representative", "organization_context": "scheme shell-company website"} | medium | published | [State Department Rewards for Justice](https://rewardsforjustice.net/rewards/north-korea-money-laundering-9-individuals) (Subject list, Tong entry) |
+| charged in federal indictment | {"court": "U.S. District Court for the District of Massachusetts", "case": "United States v. Zhenxing Wang et al.", "case_number": "25-cr-10273-NMG-MPK", "posture": "indicted; allegations unresolved"} | confirmed | published | [U.S. Department of Justice](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote) (District of Massachusetts section); [U.S. District Court for the District of Massachusetts, published by U.S. Department of Justice](https://www.justice.gov/opa/media/1406391/dl?inline) (PDF file p. 2 (printed p. 1), caption); [U.S. Department of Justice](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote) (Closing legal-posture caveat) |
+| sentinellabs reported name bridge between hopana site and xiwang registry | {"website_context": "the now-seized HopanaTech website listed Tong Yuze", "registry_context": "the same name appeared as corporate registrant of Beijing Xiwang Technology Company", "company_native_name": "北京市戏网科技有限公司", "former_company_name": "Beijing Hou Pa Na Technology Company", "historical_observation": "2024-11-21"} | medium | needs corroboration | [SentinelLabs](https://www.sentinelone.com/labs/dprk-it-workers-a-network-of-active-front-companies-and-their-links-to-china) (The Tong Yuze Identity, first four paragraphs); [SentinelLabs](https://www.sentinelone.com/labs/dprk-it-workers-a-network-of-active-front-companies-and-their-links-to-china) (The Tong Yuze Identity, corporate-name-history paragraph) |
+| sentinellabs reported corporate registration link | {"organization": "Haikou Yilu Changtong Technology Trading Company", "native_name": "海口宜路畅佟科技贸易有限公司", "source_reported_relationship": "company connected to the Tong Yuze corporate-registration identity", "shared_contact_field_with_beijing_xiwang": true, "contact_value_retained": false} | medium | needs corroboration | [SentinelLabs](https://www.sentinelone.com/labs/dprk-it-workers-a-network-of-active-front-companies-and-their-links-to-china) (The Haikou Yilu Changtong Technology Trading Company section); [SentinelLabs](https://www.sentinelone.com/labs/dprk-it-workers-a-network-of-active-front-companies-and-their-links-to-china) (The Haikou Yilu Changtong Technology Trading Company section, second paragraph) |
+| sentinellabs reported 2024 corporate registrant count | {"source_reported_company_count": 25, "geography": "China", "company_mix": "many restaurant and catering companies plus technology companies", "as_reported_at": "2024-11-21", "current_registry_status_known": false} | medium | needs corroboration | [SentinelLabs](https://www.sentinelone.com/labs/dprk-it-workers-a-network-of-active-front-companies-and-their-links-to-china) (The Tong Yuze Identity, corporate-registration breadth paragraph) |
+| doj reported at large and wanted by fbi | {"status": "at large and wanted by the FBI", "as_of": "2026-04-15"} | confirmed | published | [U.S. Department of Justice](https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker) (paragraph beginning ‘The other eight defendants’); [U.S. Department of Justice](https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker) (reward-subject list) |
+| state department program reward context | {"amount": "up to USD 5 million", "scope": "information leading to disruption of financial mechanisms supporting specified DPRK activities", "program": "Rewards for Justice"} | confirmed | published | [State Department Rewards for Justice](https://rewardsforjustice.net/rewards/north-korea-money-laundering-9-individuals) (reward heading and opening paragraph); [U.S. Department of Justice](https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker) (paragraph beginning ‘Concurrent with today’s announcement’) |
+| official source linked person image | {"source_page": "https://rewardsforjustice.net/rewards/north-korea-money-laundering-9-individuals", "media_description": "official source-labeled portrait", "handling": "link_only", "identification_use": false} | confirmed | needs corroboration | [State Department Rewards for Justice](https://rewardsforjustice.net/rewards/north-korea-money-laundering-9-individuals) (source image grid containing the separately named Tong Yuze asset and the adjacent named-person list) |
+| official reward page native script name form | {"name": "佟雨泽", "script": "source-published CJK form", "latin_label": "Tong Yuze"} | confirmed | published | [State Department Rewards for Justice](https://rewardsforjustice.net/rewards/north-korea-money-laundering-9-individuals) (individual entry beginning ‘Tong Yuze’) |
+
+<details><summary>Exact quotes</summary>
+
+- **official sources named subject** — “Tong Yuze 佟雨泽:” — State Department Rewards for Justice, Subject list, Tong entry
+- **official sources named subject** — “TONG YUZE” — U.S. District Court for the District of Massachusetts, published by U.S. Department of Justice, PDF file p. 2 (printed p. 1), caption
+- **official sources named subject** — “Tong Yuze (佟雨泽)” — U.S. Department of Justice, reward-subject list
+- **official source used chinese name form** — “Tong Yuze 佟雨泽:” — State Department Rewards for Justice, Subject list, Tong entry
+- **official source used chinese name form** — “Tong Yuze (佟雨泽)” — U.S. Department of Justice, reward-subject list
+- **rfj seeks information for reported role** — “The Department is seeking information on the following individuals for their role in the exportation of IT workers from North Korea and money laundering on behalf of the DPRK regime:” — State Department Rewards for Justice, Introduction to individual list
+- **rfj reported shell company website role** — “One of the scheme’s shell company websites identified Tong as the China-based representative for the company” — State Department Rewards for Justice, Subject list, Tong entry
+- **charged in federal indictment** — “The indictment also charges Chinese nationals Jing Bin Huang (靖斌 黄), Baoyu Zhou (周宝玉), Tong Yuze (佟雨泽), Yongzhe Xu” — U.S. Department of Justice, District of Massachusetts section
+- **charged in federal indictment** — “TONG YUZE” — U.S. District Court for the District of Massachusetts, published by U.S. Department of Justice, PDF file p. 2 (printed p. 1), caption
+- **charged in federal indictment** — “The details in the above-described court documents are merely allegations. All defendants are presumed innocent until proven guilty beyond a reasonable doubt in a court of law.” — U.S. Department of Justice, Closing legal-posture caveat
+- **sentinellabs reported name bridge between hopana site and xiwang registry** — “the above screenshot of HopanaTech’s website, which lists the Tonywkj email address, also lists Tong Yuze (佟雨泽). The same name is used for the corporate registrant of Beijing Xiwang Technology Company.” — SentinelLabs, The Tong Yuze Identity, first four paragraphs
+- **sentinellabs reported name bridge between hopana site and xiwang registry** — “Beijing Xiwang Technology Company (北京市戏网科技有限公司), previously used the name Beijing Hou Pa Na Technology Company (北京后帕纳科技有限公司)” — SentinelLabs, The Tong Yuze Identity, corporate-name-history paragraph
+- **sentinellabs reported corporate registration link** — “One of the companies connected to the Tong Yuze identity and accessible on corporate registration sites is Haikou Yilu Changtong Technology Trading Company (海口宜路畅佟科技贸易有限公司).” — SentinelLabs, The Haikou Yilu Changtong Technology Trading Company section
+- **sentinellabs reported corporate registration link** — “its corporate registration makes use of a telephone number that differs from Tong Yuze’s restaurant businesses but is shared with the Beijing Xiwang Technology Company corporate registration.” — SentinelLabs, The Haikou Yilu Changtong Technology Trading Company section, second paragraph
+- **sentinellabs reported 2024 corporate registrant count** — “Tong Yuze is currently listed as the corporate registrant of 25 companies in China, including many restaurants and catering companies.” — SentinelLabs, The Tong Yuze Identity, corporate-registration breadth paragraph
+- **doj reported at large and wanted by fbi** — “The other eight defendants indicted in June 2025 remain at large and wanted by the FBI.” — U.S. Department of Justice, paragraph beginning ‘The other eight defendants’
+- **doj reported at large and wanted by fbi** — “Tong Yuze (佟雨泽)” — U.S. Department of Justice, reward-subject list
+- **state department program reward context** — “Rewards for Justice is offering a reward of up to $5 million for information that leads to the disruption of financial mechanisms of persons engaged in certain activities that support North Korea” — State Department Rewards for Justice, reward heading and opening paragraph
+- **state department program reward context** — “announced a reward of up to $5 million for information leading to the disruption of financial mechanisms of persons engaged in certain activities that support DPRK” — U.S. Department of Justice, paragraph beginning ‘Concurrent with today’s announcement’
+- **official source linked person image** — “Tong Yuze 佟雨泽:” — State Department Rewards for Justice, source image grid containing the separately named Tong Yuze asset and the adjacent named-person list
+- **official reward page native script name form** — “Tong Yuze 佟雨泽:” — State Department Rewards for Justice, individual entry beginning ‘Tong Yuze’
+
+</details>
+
+## Sources
+
+- State Department Rewards for Justice, [North Korea Money Laundering – 9 Individuals](https://rewardsforjustice.net/rewards/north-korea-money-laundering-9-individuals), 2026-04-23 — Individual subject card labeled Tong Yuze. The official Rewards for Justice page publishes a separately named subject image for Tong Yuze in the page's alleged DPRK IT-worker facilitation and money-laundering context. The image does not establish guilt or linkage to any other alias, account, company, or image
+- U.S. Department of Justice, [Justice Department Announces Coordinated Nationwide Actions to Combat North Korean Remote Information Technology Worker Schemes](https://www.justice.gov/opa/pr/justice-department-announces-coordinated-nationwide-actions-combat-north-korean-remote), 2025-06-30 — District of Massachusetts section beginning “In a third coordinated action”; paragraph listing the eight additional charged defendants. DOJ identifies the eight Wang-case facilitators as charged defendants in the District of Massachusetts matter; the charges are allegations and do not establish guilt
+- U.S. District Court for the District of Massachusetts, published by U.S. Department of Justice, [United States v. Zhenxing Wang et al. - Indictment](https://www.justice.gov/opa/media/1406391/dl?inline), 2025-06-30
+- U.S. Department of Justice, [Two U.S. Nationals Sentenced for Facilitating Fraudulent Remote Information Technology Worker Scheme that Generated $5M in Revenue for the DPRK](https://www.justice.gov/opa/pr/two-us-nationals-sentenced-facilitating-fraudulent-remote-information-technology-worker), 2026-04-15
+- SentinelLabs, [DPRK IT Workers \| A Network of Active Front Companies and Their Links to China](https://www.sentinelone.com/labs/dprk-it-workers-a-network-of-active-front-companies-and-their-links-to-china), 2024-11-21
+
+*Data file: [`data/entities/facilitator/facilitator-tong-yuze.json`](../../../data/entities/facilitator/facilitator-tong-yuze.json). Found a problem? See [CORRECTIONS.md](../../../CORRECTIONS.md).*

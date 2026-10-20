@@ -1,0 +1,54 @@
+name: New entity
+description: Propose a worker, persona, facilitator, company, cluster or lead that is not in the dataset yet.
+title: "[entity] "
+labels: [entity]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options: [worker, persona, facilitator, front_company, organization, cluster, infrastructure, ttp, lead]
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Display name
+      description: For a persona, the name an employer or platform saw.
+    validations:
+      required: true
+  - type: dropdown
+    id: attribution
+    attributes:
+      label: Legal posture the sources establish
+      options: [convicted, sanctioned-designation, charged-allegation, officially-attributed, affected-organization-report, research-attributed, unverified-lead]
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: One per line. Publisher, title, URL, date, and the page or section that supports each claim. Public documents only.
+    validations:
+      required: true
+  - type: textarea
+    id: claims
+    attributes:
+      label: Claims, with exact quotes
+      description: What each source says, quoted verbatim. Do not paraphrase.
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: Identity boundary
+      description: What this record is and is not. Which existing records it must not be merged with, and why.
+  - type: checkboxes
+    id: policy
+    attributes:
+      label: Policy
+      options:
+        - label: Nothing here came from a private account, a login, active scanning, or contact with the subject.
+          required: true
+        - label: No phone numbers, street addresses, identity-document images, payment details, victim details or present whereabouts.
+          required: true

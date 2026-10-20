@@ -1,0 +1,32 @@
+# Separate workforce-integrity and customer AML/PF control surfaces
+
+`dfsr10-ttp-workforce-and-customer-aml-control-separation` · Tactic, technique or procedure · Officially attributed (UN or government reporting; not a charge) · confidence high · **needs corroboration**
+
+> Official jurisdiction-specific supervisory guidance. Customer-side laundering is framed as a possibility rather than an observed event; employee screening and customer AML determinations remain distinct.
+
+| | |
+|---|---|
+| TTPs | customer-due-diligence, remote-access-restriction, risk-based-reporting, source-of-funds-review, transaction-monitoring, workforce-identity-and-beneficiary-continuity |
+| lazarus.group profiles | dfpsr3-ttp-financial-sector-end-to-end-workforce-controls, ttp-ttp-access-and-data-risk, ttp-ttp-payments |
+| Last verified | 2026-08-12 |
+
+## Caveats
+
+- Customer AML controls address customer transactions; employee indicators address workforce review and DPRK-linkage assessment; each question requires its own evidence.
+- Employee-risk and customer-AML processes address distinct populations and remain separate.
+- Legal and reporting obligations are jurisdiction-specific; this record supplies context rather than universal legal advice.
+- Nationality, language, appearance, geography, payment method, remote-work preference, device, network, and any single behavioral signal require independent corroboration before supporting DPRK linkage.
+- Prospective guidance, scenarios, and red flags describe controls and possibilities; incident or attribution status remains unassigned.
+- The customer-laundering scenario is presented as a possibility; the source frames gambling-operator use as a scenario rather than an observed DPRK IT-worker case.
+- The March 25, 2026 web page announces the attached report; both records remain prospective guidance rather than an observed gambling-sector incident.
+- Use proportionate, documented, privacy-preserving human review and jurisdiction-appropriate legal advice.
+
+## Source-backed context
+
+- The GSC treats the risk as two distinct control surfaces. For staff and contractors, it recommends identity and beneficiary continuity, remote-access restrictions, protection of proprietary and personal information, virtual-asset wage caution, and HR/staffing-firm training. For customers and virtual-asset activity, it directs operators to existing due diligence, source-of-funds, enhanced due diligence, transaction monitoring, blockchain-analysis, and financial-intelligence reporting controls. This is a useful architecture-level finding because it avoids treating applicant screening alone as sufficient.
+
+## Sources
+
+- Isle of Man Gambling Supervision Commission, [DPRK IT Workers - Proliferation Financing Typology Report](https://www.isleofmangsc.com/media/xd2kvmro/dprk-typology-report.pdf), 2026-03-25 — PDF pp. 2-3, 5-12; especially pp. 3, 8-12. The report identifies remote staffing exposure for an IT-intensive sector and a separate possibility that customer-facing gambling or virtual-asset functions could be used for layering. It pairs staff-integrity controls with customer AML/PF controls and reporting duties. It does not claim a known gambling-sector incident. Evidence class: primary regulator guidance synthesizing official and attributed private-sector reporting; prospective for the regulated sector
+
+*Data file: [`data/entities/ttp/dfsr10-ttp-workforce-and-customer-aml-control-separation.json`](../../../data/entities/ttp/dfsr10-ttp-workforce-and-customer-aml-control-separation.json). Found a problem? See [CORRECTIONS.md](../../../CORRECTIONS.md).*

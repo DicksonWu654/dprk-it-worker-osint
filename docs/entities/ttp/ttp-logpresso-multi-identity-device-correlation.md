@@ -1,0 +1,34 @@
+# Logpresso aggregate multi-identity and device-correlation methodology
+
+`ttp-logpresso-multi-identity-device-correlation` · Tactic, technique or procedure · Attributed by security researchers or press · confidence medium · **needs corroboration**
+
+> Private-vendor research using infostealer-derived data, with legal adjudication outside the finding. The dataset cannot be independently reproduced without handling stolen credentials and personal data, so individual indicators are excluded and conclusions remain Logpresso's assessment.
+
+| | |
+|---|---|
+| TTPs | multiple-personas, remote-desktop, shared-account, vpn |
+| Last verified | 2026-08-12 |
+
+## Caveats
+
+- The article's email list, passwords, password regexes, hardware IDs, and exact IP ranges are excluded.
+- Private-vendor research using infostealer-derived data; legal posture is a research assessment. The dataset excludes individual indicators to avoid handling stolen credentials and personal data; conclusions remain Logpresso's assessment.
+- Publish aggregate counts, confidence methodology, service categories, and defensive detection logic.
+- Korean locale is a corroborating clue; DPRK identity or nationality comes from cited sources.
+- State that TransTeleCom, Hong Kong, VPNs, SMS services, and payment platforms have benign users and require multi-signal correlation.
+
+## Source-backed context
+
+- Logpresso compared 1,879 publicly known DPRK-linked account patterns against 1,045,645 infostealer infection records collected from 2024 onward.
+- The method used email/account patterns, IP/subnet/ASN relationships, hardware IDs, and password-family similarity. Confidence was High for simultaneous IP+password+hardware overlap, Medium for two independent signals or one strong signal, and Low for one weak signal.
+- The filtered result contained 80 unique email accounts, 66 IP addresses, 66 hardware IDs, and access to 490 domains across 28 countries.
+- A single hardware device was associated with as many as five different employment personas/accounts, supporting centralized multi-identity operation.
+- Foreign-name personas sometimes exposed Korean OS/keyboard settings, and systematically varied password families connected otherwise separate accounts. No raw values are retained here.
+- Observed service categories formed a repeatable cycle: temporary SMS verification, VPN location masking, remote desktop, code/social/freelance platforms, and online payment services.
+- AS20485 TransTeleCom accounted for seven IPs tied to eleven accounts, Hong Kong represented 64.9% of events, and the report grouped the activity into five operational clusters.
+
+## Sources
+
+- Logpresso, [[Logpresso CTI] 북한 IT 인력 위장 취업 OSINT 분석 보고서](https://logpresso.com/ko/blog/2026-03-09-dprk-remote-it-worker-osint), 2026-03-09 — 분석 방법론: 공통 지표 교차 검증; Tables 1-2; Method results; 핵심 발견 1; 핵심 발견 2-3; 핵심 발견 4; 핵심 발견 5 and 운영 그룹 프로파일. Logpresso compared 1,879 publicly known DPRK-linked account patterns against 1,045,645 infostealer infection records collected from 2024 onward. The method used email/account patterns, IP/subnet/ASN relationships, hardware IDs, and password-family similarity. Confidence was High for simultaneous IP+password+hardware overlap, Medium for two independent signals or one strong signal, and Low for one weak signal. The filtered result contained 80 unique email accounts, 66 IP addresses, 66 hardware IDs, and access to 490 domains across 28 countries. A single hardware device was associated with as many as five different employment personas/accounts, supporting centralized multi-identity operation. Foreign-name personas sometimes exposed Korean OS/keyboard settings, and systematically varied password families connected otherwise separate accounts. No raw values are retained here. Observed service categories formed a repeatable cycle: temporary SMS verification, VPN location masking, remote desktop, code/social/freelance platforms, and online payment services. AS20485 TransTeleCom accounted for seven IPs tied to eleven accounts, Hong Kong represented 64.9% of events, and the report grouped the activity into five operational clusters
+
+*Data file: [`data/entities/ttp/ttp-logpresso-multi-identity-device-correlation.json`](../../../data/entities/ttp/ttp-logpresso-multi-identity-device-correlation.json). Found a problem? See [CORRECTIONS.md](../../../CORRECTIONS.md).*

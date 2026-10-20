@@ -1,0 +1,43 @@
+# Group-IB reusable persona-production cluster
+
+`cluster-group-ib-reusable-persona-production` · Cluster or incident · Attributed by security researchers or press · confidence high · **needs corroboration**
+
+> Account and persona labels describe research artifacts; legal identity, criminal finding, nationality, and present control remain unestablished. Group-IB provides research attribution. Several visible names may be synthetic, repurposed, or stolen; the source cautions that some account/service status and broker activity remain independently unverified. Public researcher or security-vendor attribution only.
+
+| | |
+|---|---|
+| Aliases | Atsuo Koizumi |
+| Accounts | GitHub `Dejan-Teofilovic` (historical); GitHub `adminGit71` (historical); GitHub `darentGit28` (historical); GitHub `mr-new-0509` (historical); GitHub `up-pro` (historical) |
+| TTPs | code-repository-reuse, multiple-personas, shared-portfolio |
+| Last verified | 2026-08-12 |
+
+## Caveats
+
+- Create one cybersage14 persona-production cluster covering the displayed names.
+- Create one record covering the six displayed names rather than six independent worker records.
+- The source’s identity documents, access data, emails, and complete IOC appendix stay unpublished.
+- Account names, display labels, avatars, language, geography, and naming similarity remain contextual signals; nationality or civil identity requires source evidence.
+- Group-IB research attribution, with legal identity and adjudication status outside the research finding. Several visible names may be synthetic, repurposed, or stolen; the source cautions that some account/service status and broker activity remain independently unverified.
+- Historical source attribution only; current account control remains unresolved.
+- Keep adminGit71 and darentGit28 at review level; naming similarity requires source-backed identity evidence.
+- Label all names as employment personas and all accounts as historical indicators.
+- This record retains no screenshots, profile images, identity documents, private messages, contact data, credentials, payment identifiers, endpoint selectors or full IOC appendix.
+- Publish the up-pro / mr-new-0509 relationship only as a source-reported historical rename chain.
+- Treat Atsuo Koizumi and Dejan Teofilovic as displayed or synthetic employment personas rather than civil identities.
+- Use the service inventory as a workflow model rather than a blocklist.
+
+## Source-backed context
+
+- Group-IB reports that adminGit71 and darentGit28 appeared in a naming pattern around contributors tied to the Caddo Smith persona; that up-pro had previously used mr-new-0509 and was tied to the displayed persona Atsuo Koizumi; and that Dejan-Teofilovic was a public GitHub branch of the broader cybersage14 investigation with inconsistent persona materials.
+- Group-IB traced cybersage14 from a GitLab-published lead into a wider ecosystem spanning GitHub, portfolio sites, resumes, archived materials, and freelancer support infrastructure active from at least 2021 through March 2026.
+- The same cybersage14 technical shell shifted from Nicolas Sammaritano/Buenos Aires to Caddo Smith/Texas, while related contributors and repositories preserved common assets and management patterns.
+- Related profiles reused projects and infrastructure while presenting inconsistent names and geographies, including Mirko Djuricic/Aaron Groenke and divergent Dejan Teofilovic biographies.
+- A repository archive contained synthetic-identity packages for Dominic Williams and Dejan Teofilovic, plus job-search, account-access, and service-support material. Raw documents and access data are not retained here.
+- The archive contained structured response guidance, apparent ChatGPT-assisted drafting, reusable application-response banks, and role/platform categorization; timestamps suggested the library existed by 2021.
+- The support stack covered email, remote desktop, payments, freelancer platforms, mobile/phone verification, social/code platforms, hosting, messaging, and AI services.
+
+## Sources
+
+- Group-IB, [Cyber Saga: In the Footsteps of the DPRK IT Workers](https://www.group-ib.com/blog/dprk-fake-remote-developers), 2026-04-08 — Initial Lead and Repository-level Correlation; Link to Upwork Account Acquisition; The Dejan-Teofilovic Branch; Indicators of Compromise \| Key discoveries and Investigation Overview; Initial Lead and Repository-level Correlation; Additional Personas and Identity Reuse; Persona Archive; AI-Assisted Job Application Workflow; Synthetic identity access and services. Group-IB reports that adminGit71 and darentGit28 appeared in a naming pattern around contributors tied to the Caddo Smith persona; that up-pro had previously used mr-new-0509 and was tied to the displayed persona Atsuo Koizumi; and that Dejan-Teofilovic was a public GitHub branch of the broader cybersage14 investigation with inconsistent persona materials \| Group-IB traced cybersage14 from a GitLab-published lead into a wider ecosystem spanning GitHub, portfolio sites, resumes, archived materials, and freelancer support infrastructure active from at least 2021 through March 2026. The same cybersage14 technical shell shifted from Nicolas Sammaritano/Buenos Aires to Caddo Smith/Texas, while related contributors and repositories preserved common assets and management patterns. Related profiles reused projects and infrastructure while presenting inconsistent names and geographies, including Mirko Djuricic/Aaron Groenke and divergent Dejan Teofilovic biographies. A repository archive contained synthetic-identity packages for Dominic Williams and Dejan Teofilovic, plus job-search, account-access, and service-support material. Raw documents and access data are not retained here. The archive contained structured response guidance, apparent ChatGPT-assisted drafting, reusable application-response banks, and role/platform categorization; timestamps suggested the library existed by 2021. The support stack covered email, remote desktop, payments, freelancer platforms, mobile/phone verification, social/code platforms, hosting, messaging, and AI services
+
+*Data file: [`data/entities/cluster/cluster-group-ib-reusable-persona-production.json`](../../../data/entities/cluster/cluster-group-ib-reusable-persona-production.json). Found a problem? See [CORRECTIONS.md](../../../CORRECTIONS.md).*

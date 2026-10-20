@@ -1,0 +1,29 @@
+name: New source
+description: A public document (indictment, sanctions notice, UN report, vendor report, article) the dataset should cite.
+title: "[source] "
+labels: [source]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL
+    validations:
+      required: true
+  - type: input
+    id: publisher
+    attributes:
+      label: Publisher
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Publication date
+      description: As printed on the document. Leave blank for living pages.
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Which entities it supports, and what it says about them
+      description: Quote the relevant passages with page or section.
+    validations:
+      required: true

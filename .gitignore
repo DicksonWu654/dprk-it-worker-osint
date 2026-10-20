@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+build/source-health.csv
+
+# Browser review artifacts
+**/screenshots/
+**/screenshot*
+**/Screenshot*
+**/browser-cache/
+**/playwright-report/
+**/.playwright/
+**/.playwright-cli/
+/output/playwright/

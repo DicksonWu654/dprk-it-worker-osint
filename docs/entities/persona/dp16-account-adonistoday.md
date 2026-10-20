@@ -1,0 +1,98 @@
+# adonistoday
+
+`dp16-account-adonistoday` · Employment persona · Attributed by security researchers or press · confidence medium · **needs corroboration**
+
+> Recorded Future Insikt Group research attribution only. PurpleBravo fake-interview artifacts and PurpleDelta fraudulent-employment activity remain distinct unless the cited source explicitly bridges a particular artifact
+
+**Identity boundary.** Recorded Future-reported historical GitHub account used as qualified follower-graph context for PurpleBravo/PurpleDelta overlap. Public self-presented names, professional claims, repository content, and account-content similarities remain account history. Graph proximity, mutable profile text, shared content, or handle/display-name similarity are contextual signals; civil identity, shared ownership, PurpleDelta membership, and current controller require source-backed links.
+
+| | |
+|---|---|
+| Accounts | GitHub `adonistoday` (historical) |
+| TTPs | Historical use of a public code-hosting account in source-attributed activity |
+| Last verified | 2026-08-12 |
+
+## Caveats
+
+- Follower relationships and profile characteristics provide contextual links; identity, shared ownership, and present control require source-backed evidence.
+- Follower-graph relationships and profile characteristics are contextual signals; shared ownership or identity requires corroboration.
+- Historical source attribution only; present account, profile, and brand control require current source evidence.
+- The source describes PurpleBravo and PurpleDelta overlap; identifiers remain distinct across those activity sets unless separately linked.
+
+## Claims (9)
+
+| Claim | Value | Confidence | Status | Source |
+|---|---|---|---|---|
+| publisher reported historical follow and assessed characteristics | {"platform": "GitHub", "account": "adonistoday", "historically_followed_by": "domin191013", "publisher_assessment": "displays many common characteristics of a PurpleDelta operator", "merge_status": "not merged"} | medium | needs corroboration | [Recorded Future Insikt Group](https://assets.recordedfuture.com/insikt-report-pdfs/2026/cta-nk-2026-0121.pdf) (PDF page index 26 (printed footer p. 25), PurpleBravo and PurpleDelta Overlap, follower-graph and characteristics sentence) |
+| publisher reported historical github follow | {"platform": "GitHub", "source_handle": "adonistoday", "target_handle": "smartdev022", "target_context": "publisher-described known PurpleDelta GitHub persona", "status": "historical publisher observation", "merge_status": "not merged"} | high | needs corroboration | [Recorded Future Insikt Group](https://assets.recordedfuture.com/insikt-report-pdfs/2026/cta-nk-2026-0121.pdf) (PDF page index 26 (printed footer p. 25), PurpleBravo and PurpleDelta Overlap, smartdev022 sentence) |
+| current public repository portfolio summary | {"platform": "GitHub", "owner_repository_count": 20, "non_fork_count": 16, "fork_count": 4, "archived_count": 0, "disabled_count": 0, "repository_creation_range": ["2023-03-14T16:10:24Z", "2025-07-15T21:26:40Z"], "primary_language_counts": {"JavaScript": 5, "C#": 2, "Python": 2, "TypeScript": 2, "HTML": 1, "Vue": 1, "unlabelled": 7}, "safe_project_context_examples": ["web and cloud API", "desktop application", "customer-experience and sentiment analysis", "speech", "Firebase", "generative NFT art", "Solana project template", "library and patient management"]} | high | published | [GitHub](https://api.github.com/users/adonistoday/repos?per_page=100&type=owner) (Complete 20-item owner-repository response); [GitHub](https://api.github.com/users/adonistoday/repos?per_page=100&type=owner) (Repository fork flags); [GitHub](https://api.github.com/users/adonistoday/repos?per_page=100&type=owner) (Repository archive flags); [GitHub](https://api.github.com/users/adonistoday/repos?per_page=100&type=owner) (Repository primary-language fields); [GitHub](https://api.github.com/users/adonistoday/repos?per_page=100&type=owner) (Earliest repository created_at field); [GitHub](https://api.github.com/users/adonistoday/repos?per_page=100&type=owner) (Latest repository created_at field) |
+| historical self presented professional headlines and technology focus | {"platform": "GitHub", "headlines": [{"observed_in_commit_date": "2023-06-14", "value": "Senior Software Engineer"}, {"observed_in_commit_date": "2024-02-21", "value": "Full Stack Web&Blockchain Developer"}, {"observed_in_commit_date": "2025-11-17", "value": "Senior Software Engineer"}, {"observed_in_commit_date": "2026-02-18", "value": "Senior Software Engineer"}], "current_badge_examples": ["C#", "C++", "Java", "Python", "Rust", "TypeScript", "React", "Vue", "Docker", "MongoDB", "Ethereum", "Solana"], "verification": "account self-presentation only"} | high | needs corroboration | [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/631cc0003984df637c5504c7274b02f46881d700/README.md) (README h1); [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/67c9f786922e76588c6fcf0e0da837e17b72681a/README.md) (README h1); [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/35e53ce26128501a0b9ddf60318dc2271979d69a/README.md) (README h1); [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/35e53ce26128501a0b9ddf60318dc2271979d69a/README.md) (Skills image alt attributes); [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/35e53ce26128501a0b9ddf60318dc2271979d69a/README.md) (Skills image alt attributes); [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/35e53ce26128501a0b9ddf60318dc2271979d69a/README.md) (Skills image alt attributes); [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/35e53ce26128501a0b9ddf60318dc2271979d69a/README.md) (Skills image alt attributes); [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/35e53ce26128501a0b9ddf60318dc2271979d69a/README.md) (Skills image alt attributes) |
+| historical self description changed across profile commits | {"platform": "GitHub", "earlier_first_computer_age_claim": 7, "later_first_computer_age_claim": 10, "historical_geographic_aspiration": "wanted to have the experience of living in the U.S. or Canada for a while", "interpretation": "mutable and internally inconsistent self-presentation; not age, birth, residence, nationality, or travel evidence"} | high | needs corroboration | [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/21ce2770ab9e649bfa31aeea8353cce88ec89a3a/README.md) (README introductory paragraph); [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/35e53ce26128501a0b9ddf60318dc2271979d69a/README.md) (README introductory paragraph); [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/631cc0003984df637c5504c7274b02f46881d700/README.md) (README introductory paragraph) |
+| historical self presented names in public issue forms | {"platform": "GitHub", "presentations": [{"name": "Tomas Lind", "date": "2024-02-21", "public_form_count": 4, "context": "community-organization invitation requests"}, {"name": "Luis", "date": "2024-03-13", "public_form_count": 1, "context": "community invitation request"}], "verification": "names typed by the account in public issue forms; not verified civil identities", "merge_status": "not merged with same-named people"} | high | needs corroboration | [GitHub](https://api.github.com/search/issues?q=author%3Aadonistoday%20is%3Apublic&per_page=100) (Four issue bodies dated 2024-02-21, Name field); [GitHub](https://api.github.com/search/issues?q=author%3Aadonistoday%20is%3Apublic&per_page=100) (Issue body dated 2024-03-13, Name field); [GitHub](https://api.github.com/search/issues?q=author%3Aadonistoday%20is%3Apublic&per_page=100) (Issue author object) |
+| separate public account has matching display and profile content | {"platform": "GitHub", "other_handle": "smartdevcode", "other_numeric_id": 92331896, "shared_current_display_name": "Stack Master", "other_repository": "smartdevcode/adonistoday", "other_repository_fork_status": false, "other_repository_created_at": "2024-03-21T13:58:27Z", "content_comparison": "the 2024-03-21 other-account README and adonistoday's 2024-02-21 README have the same substantive visible profile text and technology-badge set, differing only by blank lines in a complete-file diff", "merge_status": "not merged", "attribution_status": "content-reuse lead only"} | medium | needs corroboration | [GitHub](https://api.github.com/users/smartdevcode) (JSON fields login, id, and name); [GitHub](https://api.github.com/users/smartdevcode) (JSON field name); [GitHub](https://api.github.com/repos/smartdevcode/adonistoday) (JSON fields full_name and fork); [GitHub](https://api.github.com/repos/smartdevcode/adonistoday) (JSON field fork); [GitHub](https://api.github.com/repos/smartdevcode/adonistoday) (JSON field created_at); [GitHub / smartdevcode account](https://raw.githubusercontent.com/smartdevcode/adonistoday/cec65e4b1299198957237c07863d22d5609ab0f4/README.md) (README h1); [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/67c9f786922e76588c6fcf0e0da837e17b72681a/README.md) (README h1); [GitHub / smartdevcode account](https://raw.githubusercontent.com/smartdevcode/adonistoday/cec65e4b1299198957237c07863d22d5609ab0f4/README.md) (README introductory paragraph); [GitHub / adonistoday account](https://raw.githubusercontent.com/adonistoday/adonistoday/67c9f786922e76588c6fcf0e0da837e17b72681a/README.md) (README introductory paragraph) |
+| current public follow check endpoint status | {"platform": "GitHub", "source_handle": "domin191013", "target_handle": "adonistoday", "source_account_endpoint_status": "HTTP 200", "target_account_endpoint_status": "HTTP 200", "follow_check_endpoint_status": "HTTP 404 Not Found"} | high | published | [GitHub](https://api.github.com/users/domin191013) (JSON field login); [GitHub](https://api.github.com/users/adonistoday) (JSON field login); [GitHub](https://api.github.com/users/domin191013/following/adonistoday) (JSON field message); [GitHub](https://api.github.com/users/domin191013/following/adonistoday) (JSON field status) |
+| current public follow check endpoint status | {"platform": "GitHub", "source_handle": "adonistoday", "target_handle": "smartdev022", "endpoint_status": "HTTP 404 Not Found", "target_endpoint_status": "HTTP 404 Not Found"} | high | published | [GitHub](https://api.github.com/users/adonistoday/following/smartdev022) (JSON field message); [GitHub](https://api.github.com/users/adonistoday/following/smartdev022) (JSON field status); [GitHub](https://api.github.com/users/smartdev022) (JSON field message); [GitHub](https://api.github.com/users/smartdev022) (JSON field status) |
+
+<details><summary>Exact quotes</summary>
+
+- **publisher reported historical follow and assessed characteristics** — “Among the GitHub users “domin191013” follows is the profile “adonistoday”, an account that displays many common characteristics of a PurpleDelta operator.” — Recorded Future Insikt Group, PDF page index 26 (printed footer p. 25), PurpleBravo and PurpleDelta Overlap, follower-graph and characteristics sentence
+- **publisher reported historical github follow** — “Pivoting on the profile “adonistoday”, the user follows a known PurpleDelta GitHub persona, “smartdev022”.” — Recorded Future Insikt Group, PDF page index 26 (printed footer p. 25), PurpleBravo and PurpleDelta Overlap, smartdev022 sentence
+- **current public repository portfolio summary** — “"full_name": "adonistoday/adonistoday"” — GitHub, Complete 20-item owner-repository response
+- **current public repository portfolio summary** — “"fork": true” — GitHub, Repository fork flags
+- **current public repository portfolio summary** — “"archived": false” — GitHub, Repository archive flags
+- **current public repository portfolio summary** — “"language": "JavaScript"” — GitHub, Repository primary-language fields
+- **current public repository portfolio summary** — “"created_at": "2023-03-14T16:10:24Z"” — GitHub, Earliest repository created_at field
+- **current public repository portfolio summary** — “"created_at": "2025-07-15T21:26:40Z"” — GitHub, Latest repository created_at field
+- **historical self presented professional headlines and technology focus** — “Senior Software Engineer” — GitHub / adonistoday account, README h1
+- **historical self presented professional headlines and technology focus** — “Full Stack Web&Blockchain Developer” — GitHub / adonistoday account, README h1
+- **historical self presented professional headlines and technology focus** — “Senior Software Engineer” — GitHub / adonistoday account, README h1
+- **historical self presented professional headlines and technology focus** — “alt="Python"” — GitHub / adonistoday account, Skills image alt attributes
+- **historical self presented professional headlines and technology focus** — “alt="React"” — GitHub / adonistoday account, Skills image alt attributes
+- **historical self presented professional headlines and technology focus** — “alt="Docker"” — GitHub / adonistoday account, Skills image alt attributes
+- **historical self presented professional headlines and technology focus** — “alt="Ethereum"” — GitHub / adonistoday account, Skills image alt attributes
+- **historical self presented professional headlines and technology focus** — “alt="Solana"” — GitHub / adonistoday account, Skills image alt attributes
+- **historical self description changed across profile commits** — “I had my first contact with computers when I was 7 years old” — GitHub / adonistoday account, README introductory paragraph
+- **historical self description changed across profile commits** — “I had my first contact with computers when I was 10 years old” — GitHub / adonistoday account, README introductory paragraph
+- **historical self description changed across profile commits** — “I wanted to have the experience of living in U.S. or Canada for a while.” — GitHub / adonistoday account, README introductory paragraph
+- **historical self presented names in public issue forms** — “### Name  Tomas Lind” — GitHub, Four issue bodies dated 2024-02-21, Name field
+- **historical self presented names in public issue forms** — “### Name  Luis” — GitHub, Issue body dated 2024-03-13, Name field
+- **historical self presented names in public issue forms** — “"login": "adonistoday"” — GitHub, Issue author object
+- **separate public account has matching display and profile content** — “"login": "smartdevcode"” — GitHub, JSON fields login, id, and name
+- **separate public account has matching display and profile content** — “"name": "Stack Master"” — GitHub, JSON field name
+- **separate public account has matching display and profile content** — “"full_name": "smartdevcode/adonistoday"” — GitHub, JSON fields full_name and fork
+- **separate public account has matching display and profile content** — “"fork": false” — GitHub, JSON field fork
+- **separate public account has matching display and profile content** — “"created_at": "2024-03-21T13:58:27Z"” — GitHub, JSON field created_at
+- **separate public account has matching display and profile content** — “Full Stack Web&Blockchain Developer” — GitHub / smartdevcode account, README h1
+- **separate public account has matching display and profile content** — “Full Stack Web&Blockchain Developer” — GitHub / adonistoday account, README h1
+- **separate public account has matching display and profile content** — “I had my first contact with computers when I was 7 years old” — GitHub / smartdevcode account, README introductory paragraph
+- **separate public account has matching display and profile content** — “I had my first contact with computers when I was 7 years old” — GitHub / adonistoday account, README introductory paragraph
+- **current public follow check endpoint status** — “"login": "domin191013"” — GitHub, JSON field login
+- **current public follow check endpoint status** — “"login": "adonistoday"” — GitHub, JSON field login
+- **current public follow check endpoint status** — “"message": "Not Found"” — GitHub, JSON field message
+- **current public follow check endpoint status** — “"status": "404"” — GitHub, JSON field status
+- **current public follow check endpoint status** — “"message": "Not Found"” — GitHub, JSON field message
+- **current public follow check endpoint status** — “"status": "404"” — GitHub, JSON field status
+- **current public follow check endpoint status** — “"message": "Not Found"” — GitHub, JSON field message
+- **current public follow check endpoint status** — “"status": "404"” — GitHub, JSON field status
+
+</details>
+
+## Sources
+
+- Recorded Future Insikt Group, [PurpleBravo's Targeting of the IT Software Supply Chain](https://assets.recordedfuture.com/insikt-report-pdfs/2026/cta-nk-2026-0121.pdf), 2026-01-21 — PDF p. 26, PurpleBravo and PurpleDelta Overlap. Recorded Future Insikt Group reported behavioral and follower-graph linkage; this is not proof of legal identity or present control. Retained as a historical, source-attributed public identifier; no present ownership or civil identity is inferred
+- GitHub, [GitHub user status: adonistoday](https://api.github.com/users/adonistoday)
+- GitHub, [GitHub public repositories: adonistoday](https://api.github.com/users/adonistoday/repos?per_page=100&type=owner)
+- GitHub / adonistoday account, [adonistoday profile README: 2023-06-14 state](https://raw.githubusercontent.com/adonistoday/adonistoday/631cc0003984df637c5504c7274b02f46881d700/README.md), 2023-06-14
+- GitHub / adonistoday account, [adonistoday profile README: 2024-02-21 state](https://raw.githubusercontent.com/adonistoday/adonistoday/67c9f786922e76588c6fcf0e0da837e17b72681a/README.md), 2024-02-21
+- GitHub / adonistoday account, [adonistoday profile README: current reviewed commit](https://raw.githubusercontent.com/adonistoday/adonistoday/35e53ce26128501a0b9ddf60318dc2271979d69a/README.md), 2026-02-18
+- GitHub / adonistoday account, [adonistoday profile README: 2025-11-17 state](https://raw.githubusercontent.com/adonistoday/adonistoday/21ce2770ab9e649bfa31aeea8353cce88ec89a3a/README.md), 2025-11-17
+- GitHub, [GitHub public issues authored by adonistoday](https://api.github.com/search/issues?q=author%3Aadonistoday%20is%3Apublic&per_page=100)
+- GitHub, [GitHub user status: smartdevcode](https://api.github.com/users/smartdevcode)
+- GitHub, [GitHub repository status: smartdevcode/adonistoday](https://api.github.com/repos/smartdevcode/adonistoday)
+- GitHub / smartdevcode account, [smartdevcode/adonistoday README: 2024-03-21 state](https://raw.githubusercontent.com/smartdevcode/adonistoday/cec65e4b1299198957237c07863d22d5609ab0f4/README.md), 2024-03-21
+- GitHub, [GitHub user status: domin191013 for adonistoday graph review](https://api.github.com/users/domin191013)
+- GitHub, [GitHub follow-check status: domin191013 to adonistoday](https://api.github.com/users/domin191013/following/adonistoday)
+- GitHub, [GitHub follow-check status: adonistoday to smartdev022](https://api.github.com/users/adonistoday/following/smartdev022)
+- GitHub, [GitHub user status: smartdev022](https://api.github.com/users/smartdev022)
+
+*Data file: [`data/entities/persona/dp16-account-adonistoday.json`](../../../data/entities/persona/dp16-account-adonistoday.json). Found a problem? See [CORRECTIONS.md](../../../CORRECTIONS.md).*

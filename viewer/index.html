@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no, email=no, address=no, date=no">
+<meta name="referrer" content="no-referrer">
+<title>DPRK IT-worker OSINT</title>
+<meta name="description" content="A free, source-linked index of North Korea's overseas IT-worker scheme: workers named by governments and courts, the personas they used, facilitators, front companies and tactics. Every claim quotes a public document.">
+<meta property="og:title" content="DPRK IT-worker OSINT">
+<meta property="og:description" content="North Korea's remote IT workers, by the documents that name them. Every claim quotes a public source.">
+<meta name="color-scheme" content="light dark">
+<link rel="preload" href="fonts/newsreader-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/public-sans-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/oswald-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' fill='%23B3141E'/%3E%3Cpolygon points='12,3 14.4,9 20.8,9.2 15.8,13.3 17.5,19.5 12,16 6.5,19.5 8.2,13.3 3.2,9.2 9.6,9' fill='%23FBF1DC'/%3E%3C/svg%3E">
+<script>
+  // Apply the saved theme before first paint to avoid a flash.
+  try { var t = localStorage.getItem("dprk-theme"); if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) {}
+</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead">
+  <div class="masthead-inner">
+    <a class="wordmark" href="#/" aria-label="DPRK IT-worker OSINT, overview">
+      <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" class="star"><polygon points="12,1.5 14.9,8.6 22.5,8.9 16.6,13.8 18.6,21.2 12,17 5.4,21.2 7.4,13.8 1.5,8.9 9.1,8.6" fill="currentColor"/></svg>
+      <span class="wordmark-text">DPRK IT-worker OSINT<small>The People’s Archive of Remote Employment</small></span>
+    </a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#/browse" data-nav="browse">Records</a>
+      <a href="#/sources" data-nav="sources">Sources</a>
+      <a href="#/about" data-nav="about">About</a>
+    </nav>
+    <form class="quick" role="search" id="quick-form" autocomplete="off">
+      <label class="sr" for="quick-input">Search names, handles, emails, companies</label>
+      <input id="quick-input" type="search" placeholder="Search names, handles, companies" spellcheck="false"
+             role="combobox" aria-expanded="false" aria-controls="quick-list" aria-autocomplete="list">
+      <kbd class="quick-key" aria-hidden="true">/</kbd>
+      <ul id="quick-list" class="quick-list" role="listbox" hidden></ul>
+    </form>
+    <button class="theme" id="theme-btn" type="button" aria-label="Switch colour theme">
+      <svg viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"><circle cx="10" cy="10" r="7.25" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M10 2.75a7.25 7.25 0 0 1 0 14.5z" fill="currentColor"/></svg>
+    </button>
+  </div>
+  <p class="notice">
+    Compiled by AI agents from public documents. May contain errors.
+    <a href="#/about">Scope and ethics</a>
+    <a href="https://github.com/DicksonWu654/dprk-it-worker-osint/blob/main/CORRECTIONS.md" rel="noopener">Request a correction</a>
+  </p>
+</header>
+
+<main id="main" tabindex="-1">
+  <section class="boot" aria-busy="true">
+    <p class="ribbon">Bulletin of the central archive</p>
+    <h1 class="boot-title">Requisitioning the dossier from the central archive…</h1>
+    <p class="boot-msg" id="boot-msg">Loading the dataset. This takes a moment on a slow connection.</p>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="foot-poster"><div class="foot-inner"><span>Long live CC BY 4.0!</span><span>Every footnote fulfils the plan!</span></div></div>
+  <div class="foot-inner">
+    <p class="foot-ai">Compiled by AI agents from public documents. It will contain mistakes, so check the source before relying on a record.</p>
+    <p class="foot-affil">Not affiliated with any government, least of all that one. The poster styling is satire aimed at the regime and its revenue scheme; the records themselves are written plainly.</p>
+    <p><strong>DPRK IT-worker OSINT</strong> compiles what governments, courts, the UN, security vendors and journalists have published. Data <a href="https://github.com/DicksonWu654/dprk-it-worker-osint/blob/main/LICENSE-DATA.md" rel="noopener">CC BY 4.0</a>, code <a href="https://github.com/DicksonWu654/dprk-it-worker-osint/blob/main/LICENSE" rel="noopener">MIT</a>.</p>
+    <p class="foot-links"><a href="https://github.com/DicksonWu654/dprk-it-worker-osint" rel="noopener">Dataset on GitHub</a> <a href="https://github.com/DicksonWu654/dprk-it-worker-osint/blob/main/CORRECTIONS.md" rel="noopener">Corrections and removal requests</a> <a href="#/about">How to read a record</a></p>
+    <p class="foot-meta" id="foot-meta"></p>
+  </div>
+</footer>
+<div class="tip" id="tip" role="tooltip" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,296 @@
+[
+  {
+    "file": "data/entities/cluster/crypto-incident-consensys-metamask-2026.json",
+    "field": "sources[2].locator",
+    "kind": "card_or_account",
+    "match": "2078898919782948942",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/cluster/crypto-incident-elemental-stabble-2026.json",
+    "field": "sources[3].locator",
+    "kind": "card_or_account",
+    "match": "2041509913080352916",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/cluster/crypto-incident-elemental-stabble-2026.json",
+    "field": "sources[4].locator",
+    "kind": "card_or_account",
+    "match": "2041518983912866186",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/cluster/crypto-incident-elemental-stabble-2026.json",
+    "field": "sources[5].locator",
+    "kind": "card_or_account",
+    "match": "2041545304525210062",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/cluster/crypto-incident-elemental-stabble-2026.json",
+    "field": "sources[6].locator",
+    "kind": "card_or_account",
+    "match": "2041970106931278115",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/cluster/crypto-incident-elemental-stabble-2026.json",
+    "field": "sources[7].locator",
+    "kind": "card_or_account",
+    "match": "2041408263921819822",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/cluster/crypto-incident-wall-street-memes-2024.json",
+    "field": "sources[0].support",
+    "kind": "street_address",
+    "match": "24 Wall Street",
+    "reason": "Wall Street Memes is the incident name; the preceding 24 is the incident day, not a street number."
+  },
+  {
+    "file": "data/entities/facilitator/facilitator-derrik-goon.json",
+    "field": "infrastructure[2].article_guid",
+    "kind": "phone",
+    "match": "0003810187",
+    "reason": "Wall Street Journal RSS article GUID, not a phone number."
+  },
+  {
+    "file": "data/entities/facilitator/facilitator-derrik-goon.json",
+    "field": "sources[2].locator",
+    "kind": "phone",
+    "match": "0003810187",
+    "reason": "Wall Street Journal RSS article GUID, not a phone number."
+  },
+  {
+    "file": "data/entities/facilitator/facilitator-matthew-isaac-knoot.json",
+    "field": "attribution.source_ids[2]",
+    "kind": "phone",
+    "match": "26-5589-157",
+    "reason": "Source identifier for a court document, not a phone number."
+  },
+  {
+    "file": "data/entities/facilitator/facilitator-matthew-isaac-knoot.json",
+    "field": "infrastructure[0].source_ids[2]",
+    "kind": "phone",
+    "match": "26-5589-157",
+    "reason": "Source identifier for a court document, not a phone number."
+  },
+  {
+    "file": "data/entities/facilitator/facilitator-nguyen-quang-viet.json",
+    "field": "claims[0].sources[3].locator",
+    "kind": "phone",
+    "match": "12904-12905",
+    "reason": "Federal Register page range, not a phone number."
+  },
+  {
+    "file": "data/entities/facilitator/facilitator-nguyen-quang-viet.json",
+    "field": "claims[8].sources[0].locator",
+    "kind": "phone",
+    "match": "12904-12905",
+    "reason": "Federal Register page range, not a phone number."
+  },
+  {
+    "file": "data/entities/facilitator/facilitator-nguyen-quang-viet.json",
+    "field": "sources[3].locator",
+    "kind": "phone",
+    "match": "12904-12905",
+    "reason": "Federal Register page range, not a phone number."
+  },
+  {
+    "file": "data/entities/organization/deep2-unhistory-korea-computer-center.json",
+    "field": "sources[2].locator",
+    "kind": "phone",
+    "match": "016-000041",
+    "reason": "Japanese asset-freeze list row number, not a phone number."
+  },
+  {
+    "file": "data/entities/organization/deep2-unhistory-korea-computer-center.json",
+    "field": "sources[2].locator",
+    "kind": "phone",
+    "match": "016-000071",
+    "reason": "Japanese asset-freeze list row number, not a phone number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-keisuke-watanabe.json",
+    "field": "claims[10].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "2041509913080352916",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-keisuke-watanabe.json",
+    "field": "claims[11].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "2041970106931278115",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-keisuke-watanabe.json",
+    "field": "claims[12].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "2041545304525210062",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-keisuke-watanabe.json",
+    "field": "claims[13].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "2041408263921819822",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-keisuke-watanabe.json",
+    "field": "claims[14].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "2041408263921819822",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-keisuke-watanabe.json",
+    "field": "sources[3].locator",
+    "kind": "card_or_account",
+    "match": "2041509913080352916",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-keisuke-watanabe.json",
+    "field": "sources[4].locator",
+    "kind": "card_or_account",
+    "match": "2041518983912866186",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-keisuke-watanabe.json",
+    "field": "sources[5].locator",
+    "kind": "card_or_account",
+    "match": "2041545304525210062",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-keisuke-watanabe.json",
+    "field": "sources[6].locator",
+    "kind": "card_or_account",
+    "match": "2041970106931278115",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-keisuke-watanabe.json",
+    "field": "sources[7].locator",
+    "kind": "card_or_account",
+    "match": "2041408263921819822",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-tyler-knapp.json",
+    "field": "claims[10].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "2078898919782948942",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-tyler-knapp.json",
+    "field": "claims[3].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "2078898919782948942",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-tyler-knapp.json",
+    "field": "claims[4].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "2078898919782948942",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-tyler-knapp.json",
+    "field": "claims[7].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "2078898919782948942",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-tyler-knapp.json",
+    "field": "claims[8].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "2078898919782948942",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-tyler-knapp.json",
+    "field": "claims[9].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "2078898919782948942",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/crypto-persona-tyler-knapp.json",
+    "field": "sources[2].locator",
+    "kind": "card_or_account",
+    "match": "2078898919782948942",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/dppr5-persona-g0drlc.json",
+    "field": "claims[6].sources[0].locator",
+    "kind": "card_or_account",
+    "match": "1960283354273923455",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/dppr5-persona-g0drlc.json",
+    "field": "claims[6].sources[1].locator",
+    "kind": "card_or_account",
+    "match": "1972742702136791351",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/dppr5-persona-g0drlc.json",
+    "field": "claims[6].sources[2].locator",
+    "kind": "card_or_account",
+    "match": "1972740905074663772",
+    "reason": "Numeric X status ID used as a source locator, not a payment-card or account number."
+  },
+  {
+    "file": "data/entities/persona/firetail-louis-trust0212.json",
+    "field": "claims[19].sources[2].quote",
+    "kind": "phone",
+    "match": "25205.45.49",
+    "reason": "URL-encoded screenshot filename time fragment, not a phone number."
+  },
+  {
+    "file": "data/entities/persona/firetail-louis-trust0212.json",
+    "field": "claims[19].sources[3].quote",
+    "kind": "card_or_account",
+    "match": "20250323203708",
+    "reason": "Wayback archive capture timestamp in YYYYMMDDhhmmss form, not an account number."
+  },
+  {
+    "file": "data/entities/persona/persona-0xexp-po.json",
+    "field": "claims[8].sources[2].locator",
+    "kind": "phone",
+    "match": "2708481563",
+    "reason": "GitHub issue comment ID used as a citation locator, not a phone number."
+  },
+  {
+    "file": "data/sources/DOLG25-S08-USDT-COMPLAINT.json",
+    "field": "title",
+    "kind": "phone",
+    "match": "902.606307",
+    "reason": "Public forfeiture amount in USDT appearing in a court-document title, not a phone number."
+  },
+  {
+    "file": "data/sources/DOLG25-S09-USDT-DOCKET.json",
+    "field": "title",
+    "kind": "phone",
+    "match": "902.606307",
+    "reason": "Public forfeiture amount in USDT appearing in a court-document title, not a phone number."
+  },
+  {
+    "file": "data/sources/dldf-s04.json",
+    "field": "title",
+    "kind": "phone",
+    "match": "15-013735-25",
+    "reason": "Dutch court docket number in the source title, not a phone number."
+  }
+]

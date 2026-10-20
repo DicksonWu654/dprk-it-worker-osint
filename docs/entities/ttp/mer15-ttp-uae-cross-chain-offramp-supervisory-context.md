@@ -1,0 +1,29 @@
+# UAE supervisory context for DPRK-linked cross-chain obfuscation and off-ramping risk
+
+`mer15-ttp-uae-cross-chain-offramp-supervisory-context` · Tactic, technique or procedure · Officially attributed (UN or government reporting; not a charge) · confidence high · **needs corroboration**
+
+> UAE supervisory risk guidance; incident, adjudication, designation, and enforcement status require case-specific sources.
+
+| | |
+|---|---|
+| TTPs | bridge-and-mixer-risk-detection, counterparty-and-travel-rule-verification, cross-chain-obfuscation-risk-review, enhanced-due-diligence-and-suspicious-transaction-reporting, stablecoin-offramp-risk-review |
+| Last verified | 2026-08-12 |
+
+## Caveats
+
+- The record presents UAE VASP and lawful bridge, mixer, DEX, stablecoin, P2P, and OTC use as contextual payment infrastructure; source-backed DPRK control or sanctions evasion requires separate evidence.
+- The source offers contextual red flags around UAE VASP processing; those red flags are not attribution rules, and any fraudulent IT-worker salary-processing finding requires corroborated review because lawful customer activity can exhibit individual patterns.
+- Individual risk signals are non-exclusive and require proportionate, privacy-preserving, human-reviewed corroboration.
+- This record retains no people, aliases, entities, accounts, wallets, transaction selectors, victims, identity data or private information.
+- The paper's DPRK statement cites the 2025 Multilateral Sanctions Monitoring Team report; the UAE supervisory discussion supplies contextual analysis for the typology.
+- The PDF metadata records creation and modification in January 2026; the visible document leaves issue date unspecified, so published_at remains null.
+
+## Source-backed context
+
+- A UAE joint supervisory paper describes a risk sequence involving illicit virtual assets, bridge hopping, mixing, decentralized-exchange routing, stablecoin consolidation, and attempted off-ramping through OTC, peer-to-peer, or licensed VASP channels. It states that DPRK-linked state actors and other sanctioned networks have been observed using this type of sequence.
+
+## Sources
+
+- United Arab Emirates Supervisory Subcommittee; hosted by the Central Bank of the United Arab Emirates, [Virtual Asset Service Providers (VASPs) - Emerging ML/TF/PF Risks, Threats & Vulnerabilities in the UAE Relating to Stablecoins](https://centralbank.ae/media/pjfpa3iu/jointp-3.pdf) — PDF p. 1 (title and publisher line); PDF p. 4, section 1 'Context and Overview'; PDF p. 9, 'Typical cross-chain obfuscation sequence,' especially the paragraph labeled 'Proliferation Financing Angle' and footnote 3; PDF p. 24, section 11 'Conclusion.'. A UAE joint supervisory paper describes a risk sequence involving illicit virtual assets, bridge hopping, mixing, decentralized-exchange routing, stablecoin consolidation, and attempted off-ramping through OTC, peer-to-peer, or licensed VASP channels. It states that DPRK-linked state actors and other sanctioned networks have been observed using this type of sequence. The official PDF was directly retrievable on 2026-08-12. The PDF metadata records creation on 2026-01-20 and modification on 2026-01-30, but the visible document does not state an issue date; publication_date is therefore null rather than inferred from file metadata. The paper cites the 2025 Multilateral Sanctions Monitoring Team report for its DPRK statement
+
+*Data file: [`data/entities/ttp/mer15-ttp-uae-cross-chain-offramp-supervisory-context.json`](../../../data/entities/ttp/mer15-ttp-uae-cross-chain-offramp-supervisory-context.json). Found a problem? See [CORRECTIONS.md](../../../CORRECTIONS.md).*

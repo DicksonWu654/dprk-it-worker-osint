@@ -1,0 +1,34 @@
+# Nike victim-impact filing source-resolution lead
+
+`dclr15-lead-nike-victim-impact-filing-resolution` · Lead · Unverified lead · confidence lead · **needs corroboration**
+
+> Fortune's secondary reporting says Nike identified itself in a victim-impact filing, while the underlying filing remains unrecovered in the cited evidence. This remains a source-resolution lead; no mapping to any anonymized legal entity is made.
+
+| | |
+|---|---|
+| Organizations | Nike |
+| Last verified | 2026-08-12 |
+
+## Caveats
+
+- Appearance, accent, nationality, ethnicity, language, geography, remote-work preference, camera behavior, VPN use, and any single device, network, phone, or account-age signal require corroboration before attribution.
+- Applicant-stage reporting covers the application stage; a successful hire, system access, post-hire conduct, or harm requires an express statement from the cited source.
+- The unnamed worker and stolen identity remain unidentified.
+- Post-hire theft, extortion, source-code access, and continuing compromise are outside the reported findings.
+- Nike remains separate from any indictment Company number.
+- This lead awaits recovery and verification of the underlying public filing. Keep deanonymization and links to indictment company numbers or anonymized victim records out of the record until that source is verified.
+- This record covers aggregate context; applicant, worker, identity-theft victim, current account, private customer, and anonymized legal-entity identity require separate evidence.
+- Secondary reporting says Nike identified itself in a victim-impact filing, but the underlying public filing remains unrecovered; the record keeps Nike separate from any anonymized indictment company.
+
+## Source-backed context
+
+- Fortune reports that Nike publicly identified itself in a victim-impact filing as having hired an unnamed worker in the Chapman network.
+- Stage: hire_and_post_incident_investigation.
+- Reported outcome: Reported five-month employment and internal-investigation cost.
+
+## Sources
+
+- Fortune, [Nike says it hired a North Korean IT worker](https://fortune.com/2025/07/24/north-korean-it-workers-chapman-nike), 2025-07-24 — Article URL and later Fortune feature's link text 'identified itself'. Fortune's October feature links this July report as its earlier coverage that Nike identified itself as affected. The July page was discoverable but did not yield enough directly retrievable text in the cited evidence for an independent exact-passage extraction. Normalized boundary: Fortune reports that Nike publicly identified itself in a victim-impact filing as having hired an unnamed worker in the Chapman network. Attribution boundary: Corroborating secondary source only. Publication boundary: Use only with DCLR15-S04 and only as a source-resolution lead until the filing itself is obtained
+- Fortune, [North Korean agents pretending to be IT guys have funneled up to $1 billion into Kim Jong Un's nuclear program](https://fortune.com/article/north-korean-it-workers-kim-jong-un-cybersecurity-nuclear-program-america), 2025-10-04 — Paragraphs identifying Nike; Chapman-network and victim-impact-statement section. Fortune reports that Nike identified itself through a victim-impact statement filed before Christina Chapman's sentencing. The report says Nike described hiring an unnamed worker in Chapman's network for five months, paying about $75,000, and spending time and resources on an internal investigation. Normalized boundary: Fortune reports that Nike publicly identified itself in a victim-impact filing as having hired an unnamed worker in the Chapman network. Attribution boundary: Secondary report of a first-party court filing. Nike did not comment to Fortune, and the underlying victim-impact statement was not recovered in the cited evidence. Publication boundary: Hold pending direct recovery of the public filing. Do not use this report to reverse-map Nike to any anonymized Company number in indictments or to identify the unnamed worker
+
+*Data file: [`data/entities/lead/dclr15-lead-nike-victim-impact-filing-resolution.json`](../../../data/entities/lead/dclr15-lead-nike-victim-impact-filing-resolution.json). Found a problem? See [CORRECTIONS.md](../../../CORRECTIONS.md).*
